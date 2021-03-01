@@ -1,7 +1,8 @@
 # Python_weather
 
 # Dependancies
-matplotlib.pyplot
+matplotlib.pyplot 
+
 pandas
 Numpy
 Requests
