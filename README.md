@@ -1,18 +1,17 @@
 # Python_weather
 
 # Dependancies
-matplotlib.pyplot 
-
-pandas
-Numpy
-Requests
-Time
-Scipy.stats
-Json
-TKinter
-Datetime
-Citipy
-Gmaps
+matplotlib.pyplot  
+pandas  
+Numpy  
+Requests  
+Time  
+Scipy.stats  
+Json  
+TKinter  
+Datetime  
+Citipy  
+Gmaps  
 Pygeocoder
 
 And a google API key in a config.py file
