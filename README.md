@@ -1,13 +1,13 @@
 # Python_weather
 
 # Dependancies
-matplotlib.pyplot  
-pandas  
+Matplotlib.pyplot  
+Pandas  
 Numpy  
 Requests  
 Time  
 Scipy.stats  
-Json  
+JSON 
 TKinter  
 Datetime  
 Citipy  
